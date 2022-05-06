@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fouad</h1>
 <h3 align="center">A passionate Software developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://mohamedfouadibrahim.github.io/portfolio/](https://mohamedfouadibrahim.github.io/portfolio/)
 
