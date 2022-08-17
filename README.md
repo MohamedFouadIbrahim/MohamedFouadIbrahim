@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohamedfouadibrahim.github.io/portfolio/](https://mohamedfouadibrahim.github.io/portfolio/)
 
-- 💬 Ask me about **React Native | iOS | NodeJS**
+- 💬 Ask me about **React Native | React | NodeJS**
 
 - 📫 How to reach me **mohamed.fouadrn@gmail.com**
 
